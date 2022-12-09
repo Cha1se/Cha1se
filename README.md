@@ -1,6 +1,6 @@
 - Привет, я Cha1se
-- Я интересуюсь Android-разработкой
-- Я изучаю язык Java и Kotlin, так же синтаксис Android, использую Android Studio
+- Я Android разработчик, пишу в основном на Kotlin
+- Иногда пишу скрипты на Python
 
 <!---
 Cha1se/Cha1se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
