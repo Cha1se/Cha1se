@@ -1,10 +1,4 @@
-- Привет, я Паламар Данил (Cha1se)
-- Я Android разработчик, пишу в основном на Kotlin
-- Иногда пишу скрипты на Python
-- Активно ищу работу
-- Email: palamar.3003@mail.ru
-- Telegram: http://t.me/Cha1se
-<!---
-Cha1se/Cha1se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Привет, я Паламар Данил</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я Android developer</h3>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
